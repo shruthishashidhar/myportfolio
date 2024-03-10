@@ -8,7 +8,7 @@ const Home = () => {
         <div className="container">
           <h1 className="navbar-brand">Shruthi Shashidhar</h1>
           <div className="intro-image">
-            <img src="./shruthi.jpeg" alt="Your Photo" />
+            <img src="/shruthi.jpeg" alt="Your Photo" />
           </div>
           <ul className="navbar-nav">
             <li className="nav-item">

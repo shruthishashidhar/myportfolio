@@ -45,7 +45,7 @@ body {
 .homepage {
     width: 1263px;
     padding: 20px;
-    background-image: url('./home.jpg');
+    background-image: url('/home.jpg');
 }
 
 .intro-section {
